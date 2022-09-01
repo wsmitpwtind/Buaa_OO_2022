@@ -1,0 +1,10 @@
+ap 1 jack 1
+ap 2 jack 1
+ar 1 2 100
+anm 1 "xxx" 0 1 2
+sm 1
+am 1 100 0 1 2
+sm 1
+qrm 2
+cn 2
+qrm 2

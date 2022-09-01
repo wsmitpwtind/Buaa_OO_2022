@@ -1,0 +1,12 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+Main -> QuestSplitter: Input Request
+QuestSplitter --> Schedule: Elevator Request
+QuestSplitter --> Schedule: Person Request
+
+Schedule -> Elevators: Person Request
+Elevators --> QuestSplitter:Finish Person Request
+@enduml

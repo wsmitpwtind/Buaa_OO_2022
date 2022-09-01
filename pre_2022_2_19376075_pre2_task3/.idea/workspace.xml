@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8899d064-4e35-46d5-9f28-c8358b1c9d14" name="变更" comment="try5">
+      <change beforePath="$PROJECT_DIR$/out/production/pre_2022_2_19376075_pre2_task3/EpicSword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pre_2022_2_19376075_pre2_task3/EpicSword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pre_2022_2_19376075_pre2_task3/RareSword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pre_2022_2_19376075_pre2_task3/RareSword.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25Yy6gcxFkRG82vJNYJWP4bap5c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pre_2022_2_19376075_pre2_task4" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="pre_2022_2_19376075_pre2_task3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8899d064-4e35-46d5-9f28-c8358b1c9d14" name="变更" comment="" />
+      <created>1645718141654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645718141654</updated>
+      <workItem from="1645718143503" duration="124000" />
+      <workItem from="1645718294028" duration="1834000" />
+      <workItem from="1645752743740" duration="9438000" />
+      <workItem from="1645764292352" duration="646000" />
+      <workItem from="1645766723311" duration="8000" />
+      <workItem from="1645767041103" duration="20000" />
+    </task>
+    <task id="LOCAL-00001" summary="try0">
+      <created>1645718365525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645718365525</updated>
+    </task>
+    <task id="LOCAL-00002" summary="try0">
+      <created>1645760761399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645760761399</updated>
+    </task>
+    <task id="LOCAL-00003" summary="try1">
+      <created>1645760995775</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645760995775</updated>
+    </task>
+    <task id="LOCAL-00004" summary="try2">
+      <created>1645761243244</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645761243244</updated>
+    </task>
+    <task id="LOCAL-00005" summary="try2">
+      <created>1645761285749</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645761285749</updated>
+    </task>
+    <task id="LOCAL-00006" summary="try3">
+      <created>1645763774339</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645763774339</updated>
+    </task>
+    <task id="LOCAL-00007" summary="try4">
+      <created>1645764049762</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645764049762</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="try0" />
+    <MESSAGE value="try1" />
+    <MESSAGE value="try2" />
+    <MESSAGE value="try3" />
+    <MESSAGE value="try4" />
+    <option name="LAST_COMMIT_MESSAGE" value="try4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

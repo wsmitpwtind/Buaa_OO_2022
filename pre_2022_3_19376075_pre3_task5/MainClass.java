@@ -1,0 +1,79 @@
+import java.math.BigInteger;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class MainClass {
+    public static void main(String[] argv) {
+        Scanner scanner = new Scanner(System.in);
+        ArrayList<Adventurer> adventurers = new ArrayList<>();
+        int askTimes = scanner.nextInt();
+        for (int i = 1; i <= askTimes; i++) {
+            int status = scanner.nextInt();
+            if (status == 1) {
+                Adventurer adventurer = new Adventurer();
+                adventurer.setAdventurer(scanner.nextInt(), scanner.next());
+                adventurers.add(adventurer);
+            } else {
+                int adventurerId = scanner.nextInt();
+                for (Adventurer item : adventurers) {
+                    if (item.getId() == adventurerId) {
+                        classifyValue(item, status, adventurers, scanner);
+                        break;
+                    }
+                }
+            }
+        }
+    }
+
+    private static void classifyValue(Adventurer item, int status,
+                                      ArrayList<Adventurer> adventurers, Scanner scanner) {
+        int equType;
+        switch (status) {
+            case 2:
+                equType = scanner.nextInt();
+                List<java.io.Serializable> vars = new ArrayList<>();
+                vars.add(scanner.nextInt());
+                vars.add(scanner.next());
+                vars.add(BigInteger.valueOf(scanner.nextLong()));
+                vars.add(scanner.nextDouble());
+                if (equType != 1 && equType != 4) {
+                    vars.add(scanner.nextDouble());
+                }
+                item.createEquipment(equType, vars);
+                break;
+            case 3:
+                item.deleteValueBody(scanner.nextInt());
+                break;
+            case 4:
+                System.out.println(item.sumValueBodyPrice());
+                break;
+            case 5:
+                System.out.println(item.maxValueBodyPrice());
+                break;
+            case 6:
+                System.out.println(item.getEquipmentNum());
+                break;
+            case 7:
+                int equId = scanner.nextInt();
+                item.getEquipmentSituation(equId);
+                break;
+            case 8:
+                item.use(item);
+                break;
+            case 9:
+                item.getAdventurerSituation();
+                break;
+            case 10:
+                int employId = scanner.nextInt();
+                for (Adventurer employ : adventurers) {
+                    if (employ.getId() == employId) {
+                        item.createAdventurer(employ);
+                    }
+                }
+                break;
+            default:
+                break;
+        }
+    }
+}

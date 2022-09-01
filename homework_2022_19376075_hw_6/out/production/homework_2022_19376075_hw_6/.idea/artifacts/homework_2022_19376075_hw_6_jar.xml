@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="homework_2022_19376075_hw_6:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/homework_2022_19376075_hw_6_jar</output-path>
+    <root id="archive" name="homework_2022_19376075_hw_6.jar">
+      <element id="module-output" name="homework_2022_19376075_hw_6" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../elevator-input-2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../timable-output.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
